@@ -16,7 +16,7 @@ The system is built to ensure data integrity not just through constraints, but t
 ### Database Schema (ERD)
 The database utilizes a relational model with **1:1(0) ISA Hierarchies** for user roles and **Many-to-Many** relationships for tagging and authorship.
 
-[ER]
+<img width="911" height="441" alt="DiagramaER_Jurnalism drawio" src="https://github.com/user-attachments/assets/41a2f319-265e-4e35-ae47-4fcb5cc13b80" />
 
 ### 🚀 Key Features & PL/SQL Implementation
 
