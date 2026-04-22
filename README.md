@@ -1,4 +1,4 @@
-**# Journalism-Database**# PL/SQL Journalism Agency System
+# Journalism-Database PL/SQL Journalism Agency System
 
 > A comprehensive Database Management System designed for a modern Journalism Agency, featuring complex PL/SQL logic, audit mechanisms, and editorial workflow automation.
 
